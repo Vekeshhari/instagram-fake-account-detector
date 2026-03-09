@@ -1,0 +1,7 @@
+instaloader
+opencv-python
+Pillow
+numpy
+scikit-image
+requests
+exifread
